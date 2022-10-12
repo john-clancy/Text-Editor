@@ -1,0 +1,26 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "Run npm i to install all dependencies Load ALL the dependencies from the package.json files Then run npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-clancy/Text-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-clancy/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/john-clancy/Text-Editor#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "concurrently": "^7.4.0",
+    "nodemon": "^2.0.20",
+    "webpack": "^5.74.0"
+  }
+}
